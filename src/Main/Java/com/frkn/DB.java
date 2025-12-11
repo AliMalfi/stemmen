@@ -1,3 +1,4 @@
+package src.Main.Java.com.frkn;
 import java.sql.Connection;
 import java.sql.DriverManager;
 
